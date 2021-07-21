@@ -7,8 +7,8 @@
 
 
 SETTINGS = {
-    'token': 'ODY3NDAxMzI3ODQ2ODgzMzI5.YPgkcA.KscvwKPBOVB9yPBD_DZKbfV3w5g',
-    'bot': 'Chewbacca',
-    'id': 867401327846883329,
+    'token': 'Ваш токен',
+    'bot': 'имя',
+    'id': айди в виде множества цифр,
     'prefix': ['Чубакка ', 'Бот ', '!']
 }
